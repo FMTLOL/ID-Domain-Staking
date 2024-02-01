@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider activeChain={activeChain}>
       <Head>
-        <title>FMS Staking</title>
+        <title>ID Staking</title>
       </Head>
       <Navbar />
       

@@ -134,8 +134,6 @@ import {
       <br />
       <br />
       <br />
-      <br />
-      <br />
       <h4>fms ©2024</h4>
       </div>
     );

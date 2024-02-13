@@ -78,7 +78,7 @@ const Stake: NextPage = () => {
           modalSize={"wide"}
           welcomeScreen={{
             title: "ID Domain Staking",
-            subtitle: "Stake ID Domain, Get MATIC",
+            subtitle: "Stake ID Domain, Earn MATIC",
             img: {
               src: "https://i.imgur.com/3D2Arx0.png",
               width: 150,

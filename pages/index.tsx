@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <p className={styles.selectBoxDescription}>
       <br/>
       <br/>
-      Stake ID Domain, Earn MATIC</p>
+      Stake ID Domain, Earn F Tokens</p>
       <br/>
       <br/>
       <br/>

@@ -77,7 +77,7 @@ import {
          modalSize={"wide"}
          welcomeScreen={{
           title: "ID Domain Staking",
-          subtitle: "Stake ID Domain, Earn MATIC",
+          subtitle: "Stake ID Domain, Earn F Tokens",
            img: {
              src: "https://i.imgur.com/3D2Arx0.png",
              width: 150,
